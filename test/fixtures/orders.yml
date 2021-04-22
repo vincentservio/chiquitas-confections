@@ -1,0 +1,17 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  event: MyString
+  theme: MyString
+  color: MyString
+  attendees: MyString
+  pastry: MyString
+  size: MyString
+
+two:
+  event: MyString
+  theme: MyString
+  color: MyString
+  attendees: MyString
+  pastry: MyString
+  size: MyString
